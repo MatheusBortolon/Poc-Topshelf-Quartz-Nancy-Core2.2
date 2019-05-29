@@ -6,9 +6,6 @@ using System;
 using Topshelf;
 using Topshelf.Nancy;
 
-git remote add origin git@github.com:MatheusBortolon/Poc-Topshelf-Quartz-Nancy-Core2.2.git
-
-
 namespace Integracao.Core
 {
     public class SchedulerService
